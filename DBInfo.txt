@@ -1,9 +1,0 @@
-Hostname: dpg-cuo6q5tds78s738fr1jg-a.oregon-postgres.render.com
-Port: 5432
-Database: smartbraindb_mgcx
-Username: smartbraindb_mgcx_user
-Password: 1w9jHeMl7FTdRZs1dbJeLcns41PLYNdX
-Internal Database URL: postgresql://smartbraindb_mgcx_user:1w9jHeMl7FTdRZs1dbJeLcns41PLYNdX@dpg-cuo6q5tds78s738fr1jg-a/smartbraindb_mgcx
-External Database URL: postgresql://smartbraindb_mgcx_user:1w9jHeMl7FTdRZs1dbJeLcns41PLYNdX@dpg-cuo6q5tds78s738fr1jg-a.oregon-postgres.render.com/smartbraindb_mgcx
-PSQL Command: PGPASSWORD=1w9jHeMl7FTdRZs1dbJeLcns41PLYNdX psql -h dpg-cuo6q5tds78s738fr1jg-a.oregon-postgres.render.com -U smartbraindb_mgcx_user smartbraindb_mgcx
-Web Service URL: https://facerecognitionbrainapi-sq1g.onrender.com
